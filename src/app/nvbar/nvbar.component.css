@@ -1,0 +1,9 @@
+nav-link:hover,
+.nav-link:active{
+    font-weight: bold;
+    color: black;
+    
+}
+.btn:hover{
+    background-color: black;
+}
